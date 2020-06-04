@@ -1,4 +1,9 @@
-<b> The instructions are: </b>
+<b>I solved this task using functional components and useState() hook.</b>
+<hr/>
+<hr/>
+
+
+<b> TASK ==> The instructions are: </b>
 <br/>
 + Create TWO new components: UserInput and UserOutput
 + UserInput should hold an input element, UserOutput two paragraphs
